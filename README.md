@@ -39,7 +39,8 @@
 * Overall, male participants consistently outnumbered females in most states, highlighting a gender gap in enrolment.
 
 ### Fig-1: Shows Gender Distribution of Participants
-<img width="461" alt="image 2" src="https://github.com/user-attachments/assets/4e6ddbdf-b57b-419b-ba05-4e42fa316539" />
+<img width="461" alt="image 2" src="https://github.com/user-attachments/assets/8b8b3e19-6dca-4735-aed7-50aaf33864e6" />
+
 
 ## 2. State with the Highest Number of Female Participants
 * Contrary to expectations, Nasarawa, despite having only 1 female participant, was flagged due to a misinterpretation.
@@ -49,12 +50,13 @@
 * Participation was fairly distributed, with the North West (114 participants) and North Central (110) leading.
 * The South East recorded the lowest engagement with 75 participants.
 ### Fig-2: Shows Zonal Distribution of Participants
-<img width="432" alt="image" src="https://github.com/user-attachments/assets/131be01e-60e8-46cb-bf7c-f8e4c671bfa6" />
+<img width="432" alt="image" src="https://github.com/user-attachments/assets/9cfc8929-5800-4274-a1e9-40413cb3779c" />
+
 
 ## 4. Age Group with the Highest Number of Trained Participants
 * The 16–25 years category dominated the training program, accounting for 237 participants, emphasizing youth engagement.
 ### Fig-1:Shows The age Group Distribution of the Participants
-<img width="576" alt="image3" src="https://github.com/user-attachments/assets/2116736d-bff8-444a-a0bc-b76760db46d3" />
+<img width="576" alt="image3" src="https://github.com/user-attachments/assets/08bf3f6b-0ece-4f4d-84be-3c08460ba3b1" />
 
 
 ## 5. Most Demanded Training Scheme
