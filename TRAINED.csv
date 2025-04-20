@@ -1,0 +1,568 @@
+RegID,Programme,Scheme,Gender,Age,Marital Status,State,Zone,Status,Training Status
+61030248744,Vocational Skills Development,CBTS,Male,20,Single,Abia,South East,Documented,Trained
+99570063606,Vocational Skills Development,B-NOAS,Male,34,Single,Abia,South East,Documented,Trained
+54578105216,Vocational Skills Development,B-NOAS,Male,34,Single,Abia,South East,Documented,Trained
+68765320423,Small Scale Enterprise,MEES,Female,32,Married,Abia,South East,Documented,Trained
+58427495654,Special Public Works,EBTS,Female,20,Married,Abia,South East,Documented,Trained
+29961283963,Vocational Skills Development,TPWN,Female,18,Married,Abia,South East,Documented,Trained
+30633238161,Small Scale Enterprise,WEB,Female,17,Married,Abia,South East,Documented,Trained
+36657291679,Vocational Skills Development,DMSWC,Male,16,Single,Abia,South East,Documented,Trained
+38448009992,Special Public Works,ACCES,Female,18,Married,Abia,South East,Documented,Trained
+10624845500,Vocational Skills Development, DIGITAL SKILLS,Female,20,Married,Abia,South East,Documented,Not Trained
+68785153940,Small Scale Enterprise,WEB,Female,22,Married,Abia,South East,Not Documented,Not Trained
+97726757412,Vocational Skills Development, DIGITAL SKILLS,Male,23,Married,Abia,South East,Documented,Not Trained
+10175814745,Small Scale Enterprise,SYOB,Male,21,Married,Abia,South East,Documented,Not Trained
+53458811320,Special Public Works,SETS,Male,25,Married,Abia,South East,Not Documented,Not Trained
+80693083391,Rural Employment Programme,PPTS,Female,27,Married,Abia,South East,Documented,Not Trained
+81374228056,Special Public Works,SETS,Male,24,Married,Abia,South East,Documented,Not Trained
+68100169819,Rural Employment Programme,AETS,Female,23,Married,Abia,South East,Documented,Trained
+15538607941,Vocational Skills Development,A-NOAS,Male,22,Married,Adamawa,North East,Documented,Trained
+15068175815,Vocational Skills Development,A-NOAS,Male,45,Married,Adamawa,North East,Documented,Trained
+82601461136,Vocational Skills Development,A-NOAS,Male,41,Married,Adamawa,North East,Documented,Trained
+42607519196,Vocational Skills Development,B-NOAS,Male,34,Married,Adamawa,North East,Documented,Trained
+15215376442,Vocational Skills Development,CBTS,Male,43,Married,Adamawa,North East,Documented,Trained
+29461260045,Special Public Works,GAP,Male,45,Married,Adamawa,North East,Documented,Trained
+66328482791,Vocational Skills Development,CBTS,Male,47,Married,Adamawa,North East,Documented,Not Trained
+60226133314,Special Public Works,GAP,Male,32,Married,Adamawa,North East,Documented,Not Trained
+75579433856,Vocational Skills Development,TCCTS,Male,31,Married,Adamawa,North East,Not Documented,Not Trained
+46585132570,Small Scale Enterprise,SYOB,Male,47,Married,Adamawa,North East,Documented,Trained
+81013148963,Vocational Skills Development,B-NOAS,Female,50,Married,Adamawa,North East,Documented,Trained
+89178963835,Vocational Skills Development,B-NOAS,Male,55,Married,Adamawa,North East,Documented,Trained
+97602442477,Small Scale Enterprise,MPP,Male,54,Married,Adamawa,North East,Documented,Trained
+39693777284,Special Public Works,ACCES,Male,56,Married,Adamawa,North East,Documented,Trained
+98294488087,Small Scale Enterprise,BBT,Male,59,Single,Adamawa,North East,Not Documented,Not Trained
+82566862335,Small Scale Enterprise,MEES,Male,32,Married,Akwa Ibom,South South,Documented,Not Trained
+77755519988,Vocational Skills Development,B-NOAS,Male,20,Married,Akwa Ibom,South South,Documented,Not Trained
+62281057559,Special Public Works,GCS,Male,34,Married,Akwa Ibom,South South,Documented,Trained
+32141549222,Vocational Skills Development,CBTS,Male,34,Married,Akwa Ibom,South South,Documented,Trained
+50971098324,Small Scale Enterprise,WEB,Male,32,Married,Akwa Ibom,South South,Documented,Trained
+71301905191,Special Public Works,EBTS,Female,20,Single,Akwa Ibom,South South,Documented,Trained
+64317644795,Special Public Works,ACCES,Male,18,Married,Akwa Ibom,South South,Documented,Trained
+74397679560,Special Public Works,GAP,Male,17,Single,Akwa Ibom,South South,Documented,Trained
+95882094767,Special Public Works,GAP,Male,16,Married,Akwa Ibom,South South,Documented,Trained
+49324359817,Vocational Skills Development,TCCTS,Female,18,Married,Akwa Ibom,South South,Documented,Trained
+45242636647,Small Scale Enterprise,MEES,Male,20,Single,Akwa Ibom,South South,Documented,Trained
+23121751222,Small Scale Enterprise,WEB,Female,22,Married,Anambra,South East,Documented,Trained
+92969557387,Vocational Skills Development,CBTS,Male,23,Single,Anambra,South East,Documented,Trained
+71417157709,Vocational Skills Development,CBTS,Female,26,Single,Anambra,South East,Documented,Trained
+44789075293,Small Scale Enterprise,WEB,Female,24,Married,Anambra,South East,Documented,Trained
+53477668942,Small Scale Enterprise,MEES,Female,23,Married,Anambra,South East,Not Documented,Not Trained
+87743212939,Vocational Skills Development,B-NOAS,Female,22,Married,Anambra,South East,Documented,Not Trained
+11563472731,Small Scale Enterprise,MEES,Female,45,Married,Anambra,South East,Documented,Not Trained
+20725161866,Special Public Works,ACCES,Female,41,Single,Anambra,South East,Documented,Not Trained
+66531437449,Vocational Skills Development,CBTS,Male,34,Married,Anambra,South East,Documented,Not Trained
+23913613892,Vocational Skills Development,TPWN,Male,43,Married,Anambra,South East,Documented,Not Trained
+45910996647,Small Scale Enterprise,WEB,Female,45,Married,Anambra,South East,Not Documented,Not Trained
+93741273567,Vocational Skills Development,CBTS,Male,20,Single,Anambra,South East,Documented,Trained
+15876699805,Special Public Works,ACCES,Female,34,Married,Anambra,South East,Documented,Trained
+24600193947,Small Scale Enterprise,WEB,Female,34,Married,Anambra,South East,Documented,Trained
+69754769887,Small Scale Enterprise,WEB,Female,32,Married,Anambra,South East,Documented,Trained
+70333956981,Small Scale Enterprise,MEES,Male,20,Married,Bauchi,North East,Documented,Trained
+36772550609,Vocational Skills Development,CBTS,Male,18,Married,Bauchi,North East,Documented,Trained
+44430519546,Special Public Works,GAP,Male,17,Single,Bauchi,North East,Documented,Trained
+33113803969,Special Public Works,GAP,Male,16,Married,Bauchi,North East,Documented,Not Trained
+84706303474,Small Scale Enterprise,WEB,Female,18,Married,Bauchi,North East,Documented,Not Trained
+57722266934,Special Public Works,ACCES,Male,20,Married,Bauchi,North East,Not Documented,Not Trained
+65731627834,Vocational Skills Development, DIGITAL SKILLS,Male,22,Married,Bauchi,North East,Documented,Trained
+99754496699,Special Public Works,ACCES,Male,23,Married,Bauchi,North East,Documented,Trained
+55666777741,Vocational Skills Development,CBTS,Male,21,Married,Bauchi,North East,Documented,Trained
+80848814244,Special Public Works,EBTS,Male,25,Divorce,Bauchi,North East,Documented,Trained
+70013976646,Vocational Skills Development, DIGITAL SKILLS,Male,27,Single,Bauchi,North East,Documented,Trained
+48253080501,Special Public Works,SETS,Male,24,Married,Bauchi,North East,Documented,Not Trained
+86882136352,Special Public Works,GCS,Female,23,Married,Bauchi,North East,Documented,Not Trained
+68229090631,Small Scale Enterprise,WEB,Female,22,Married,Bauchi,North East,Documented,Not Trained
+43772143876,Small Scale Enterprise,WEB,Female,45,Married,Bauchi,North East,Documented,Trained
+90002130693,Small Scale Enterprise,WEB,Female,41,Married,Bauchi,North East,Documented,Trained
+36207920607,Small Scale Enterprise,MEES,Male,34,Married,Bauchi,North East,Documented,Trained
+75063647995,Vocational Skills Development,QUICK-FIX ,Female,43,Single,Bauchi,North East,Documented,Trained
+86699692169,Rural Employment Programme,FPTS,Female,45,Married,Bauchi,North East,Documented,Trained
+92481671548,Vocational Skills Development, DIGITAL SKILLS,Female,47,Married,Bauchi,North East,Documented,Trained
+76473852616,Vocational Skills Development,CBTS,Male,32,Single,Bayelsa,South South,Documented,Trained
+80384636753,Small Scale Enterprise,MEES,Female,31,Single,Bayelsa,South South,Documented,Trained
+70199368618,Small Scale Enterprise,WEB,Female,47,Married,Bayelsa,South South,Documented,Trained
+79105873823,Small Scale Enterprise,WEB,Female,50,Single,Bayelsa,South South,Documented,Trained
+99067292695,Special Public Works,GAP,Male,55,Single,Bayelsa,South South,Documented,Trained
+95242396629,Special Public Works,GAP,Male,54,Married,Bayelsa,South South,Documented,Trained
+33169671885,Special Public Works,ACCES,Male,56,Married,Bayelsa,South South,Documented,Not Trained
+74370326006,Special Public Works,GAP,Female,59,Married,Bayelsa,South South,Not Documented,Not Trained
+39615415756,Vocational Skills Development,B-NOAS,Male,32,Married,Bayelsa,South South,Documented,Not Trained
+59958823906,Vocational Skills Development,B-NOAS,Male,20,Married,Bayelsa,South South,Not Documented,Not Trained
+19297818145,Special Public Works,GAP,Female,34,Single,Bayelsa,South South,Documented,Not Trained
+79301324161,Small Scale Enterprise,MEES,Male,23,Married,Benue,North Central,Documented,Not Trained
+77706828411,Special Public Works,LBIDS,Male,26,Married,Benue,North Central,Documented,Not Trained
+67329615525,Small Scale Enterprise,MEES,Male,24,Single,Benue,North Central,Documented,Trained
+12244193303,Special Public Works,ACCES,Male,23,Married,Benue,North Central,Documented,Trained
+95562238025,Small Scale Enterprise,MEES,Male,22,Single,Benue,North Central,Documented,Trained
+73465437255,Small Scale Enterprise,NDE-EFCC,Male,45,Single,Benue,North Central,Documented,Trained
+99541883302,Special Public Works,GAP,Male,41,Married,Benue,North Central,Documented,Trained
+48495686444,Small Scale Enterprise,WEB,Female,34,Married,Benue,North Central,Documented,Not Trained
+48495686444,Small Scale Enterprise,WEB,Female,43,Married,Benue,North Central,Not Documented,Not Trained
+64107847515,Special Public Works,EBTS,Male,45,Married,Benue,North Central,Documented,Trained
+27324852251,Rural Employment Programme,PPTS,Male,20,Married,Benue,North Central,Documented,Trained
+91241116625,Small Scale Enterprise,NDE-EFCC,Female,34,Married,Benue,North Central,Documented,Trained
+83911669121,Rural Employment Programme,SSGPTS,Male,34,Married,Benue,North Central,Documented,Trained
+64766680281,Special Public Works,GAP,Female,32,Married,Benue,North Central,Documented,Trained
+14476010034,Small Scale Enterprise,WEB,Female,20,Married,Benue,North Central,Documented,Trained
+88384525643,Small Scale Enterprise,NDE-EFCC,Male,18,Married,Benue,North Central,Documented,Trained
+42462908066,Small Scale Enterprise,SYOB,Female,17,Single,Benue,North Central,Documented,Trained
+30802395386,Small Scale Enterprise,SYOB,Male,16,Married,Benue,North Central,Documented,Trained
+29913753885,Vocational Skills Development,QUICK-FIX ,Female,18,Married,Benue,North Central,Documented,Trained
+20623880899,Vocational Skills Development,A-NOAS,Female,20,Single,Borno,North East,Documented,Trained
+16411857082,Vocational Skills Development,A-NOAS,Male,47,Married,Borno,North East,Documented,Trained
+56773508972,Vocational Skills Development,B-NOAS,Male,32,Married,Borno,North East,Documented,Not Trained
+11123876507,Vocational Skills Development,B-NOAS,Male,31,Married,Borno,North East,Documented,Not Trained
+51389125081,Special Public Works,GCS,Male,47,Married,Borno,North East,Not Documented,Not Trained
+53784766177,Vocational Skills Development,B-NOAS,Male,50,Married,Borno,North East,Documented,Trained
+21361550205,Vocational Skills Development,CBTS,Male,55,Married,Borno,North East,Documented,Trained
+13489792920,Small Scale Enterprise,SYOB,Male,54,Married,Borno,North East,Documented,Trained
+13813174177,Small Scale Enterprise,SYOB,Male,56,Married,Borno,North East,Documented,Trained
+30114251619,Vocational Skills Development, DIGITAL SKILLS,Male,59,Married,Borno,North East,Documented,Trained
+15426400401,Vocational Skills Development,CBTS,Male,32,Single,Cross Rivers,South South,Documented,Trained
+52543576146,Special Public Works,ACCES,Male,20,Single,Cross Rivers,South South,Documented,Trained
+32461347175,Vocational Skills Development,CBTS,Male,34,Single,Cross Rivers,South South,Documented,Not Trained
+96646961960,Vocational Skills Development,CBTS,Male,23,Married,Cross Rivers,South South,Not Documented,Not Trained
+20286799800,Vocational Skills Development,CBTS,Female,26,Single,Cross Rivers,South South,Documented,Not Trained
+42850094217,Small Scale Enterprise,MEES,Male,24,Single,Cross Rivers,South South,Documented,Not Trained
+39073707563,Small Scale Enterprise,MEES,Male,23,Married,Cross Rivers,South South,Documented,Not Trained
+54921956585,Small Scale Enterprise,SYOB,Male,22,Married,Cross Rivers,South South,Documented,Not Trained
+11317648941,Small Scale Enterprise,SYOB,Male,45,Married,Cross Rivers,South South,Documented,Trained
+77607557948,Small Scale Enterprise,SYOB,Female,41,Married,Cross Rivers,South South,Documented,Trained
+81499287374,Rural Employment Programme,FPTS,Female,34,Married,Cross Rivers,South South,Documented,Trained
+21524875072,Small Scale Enterprise,SYOB,Male,43,Married,Cross Rivers,South South,Documented,Trained
+82070221530,Small Scale Enterprise,SYOB,Male,45,Married,Cross Rivers,South South,Documented,Trained
+63643904099,Vocational Skills Development,B-NOAS,Male,20,Single,Cross Rivers,South South,Documented,Trained
+26686395884,Vocational Skills Development,B-NOAS,Male,34,Married,Cross Rivers,South South,Documented,Trained
+87980319519,Vocational Skills Development,B-NOAS,Male,34,Single,Cross Rivers,South South,Not Documented,Not Trained
+95502828532,Vocational Skills Development,B-NOAS,Male,32,Single,Cross Rivers,South South,Documented,Not Trained
+76381050440,Rural Employment Programme,AETS,Male,20,Single,Cross Rivers,South South,Documented,Not Trained
+71146750194,Rural Employment Programme,AETS,Male,18,Married,Cross Rivers,South South,Documented,Trained
+96952880348,Vocational Skills Development,CBTS,Male,17,Married,Delta,South South,Documented,Trained
+94555266189,Vocational Skills Development,CBTS,Male,16,Married,Delta,South South,Documented,Trained
+36314416082,Vocational Skills Development,A-NOAS,Male,18,Married,Delta,South South,Documented,Trained
+75037052190,Vocational Skills Development,A-NOAS,Female,20,Single,Delta,South South,Documented,Trained
+20731970395,Vocational Skills Development,A-NOAS,Male,22,Married,Delta,South South,Documented,Not Trained
+17405173233,Vocational Skills Development,A-NOAS,Male,23,Single,Delta,South South,Not Documented,Not Trained
+53251615668,Vocational Skills Development,CBTS,Female,21,Married,Delta,South South,Documented,Not Trained
+21637544456,Vocational Skills Development,A-NOAS,Male,25,Married,Delta,South South,Documented,Trained
+36413050463,Vocational Skills Development,A-NOAS,Male,27,Single,Delta,South South,Documented,Trained
+19134886316,Vocational Skills Development,A-NOAS,Female,24,Married,Delta,South South,Documented,Trained
+36295557524,Vocational Skills Development,CBTS,Male,23,Single,Delta,South South,Documented,Trained
+93248594298,Vocational Skills Development, DIGITAL SKILLS,Female,22,Single,Delta,South South,Documented,Trained
+52511587793,Small Scale Enterprise,SYOB,Male,45,Single,Delta,South South,Documented,Trained
+56810323331,Vocational Skills Development,A-NOAS,Female,41,Married,Delta,South South,Documented,Trained
+12869065374,Small Scale Enterprise,SYOB,Male,34,Married,Delta,South South,Documented,Trained
+35234744964,Vocational Skills Development,CBTS,Male,43,Married,Eboyi,South East,Documented,Trained
+44048907341,Vocational Skills Development,CBTS,Male,34,Married,Eboyi,South East,Documented,Trained
+84234506446,Vocational Skills Development,TPWN,Male,23,Single,Eboyi,South East,Documented,Trained
+48841218745,Vocational Skills Development,CBTS,Male,26,Married,Eboyi,South East,Documented,Trained
+59190721032,Small Scale Enterprise,MEES,Male,24,Married,Eboyi,South East,Documented,Trained
+51412424336,Vocational Skills Development,CBTS,Male,23,Married,Eboyi,South East,Not Documented,Not Trained
+40792503491,Vocational Skills Development,CBTS,Male,22,Married,Eboyi,South East,Documented,Not Trained
+62397857607,Vocational Skills Development,CBTS,Male,45,Single,Eboyi,South East,Documented,Not Trained
+85504802237,Vocational Skills Development,CBTS,Female,41,Married,Eboyi,South East,Documented,Not Trained
+17187043886,Vocational Skills Development,CBTS,Male,34,Married,Eboyi,South East,Documented,Not Trained
+47250471761,Small Scale Enterprise,MEES,Female,43,Married,Eboyi,South East,Not Documented,Not Trained
+33541283810,Vocational Skills Development,CBTS,Male,45,Married,Eboyi,South East,Documented,Not Trained
+92000921590,Rural Employment Programme,AETS,Male,20,Married,Eboyi,South East,Documented,Trained
+76824022383,Rural Employment Programme,AETS,Male,34,Married,Eboyi,South East,Documented,Trained
+98758887984,Special Public Works,GCS,Male,34,Married,Edo,South South,Documented,Trained
+14406432816,Vocational Skills Development,TPWN,Male,32,Married,Edo,South South,Documented,Trained
+47843156672,Special Public Works,GCS,Male,20,Married,Edo,South South,Documented,Trained
+52825559134,Vocational Skills Development,B-NOAS,Female,18,Married,Edo,South South,Documented,Trained
+92135103855,Small Scale Enterprise,WEB,Female,17,Single,Edo,South South,Documented,Trained
+10254209449,Vocational Skills Development,A-NOAS,Female,16,Divorce,Edo,South South,Documented,Not Trained
+78288458767,Special Public Works,GCS,Male,18,Married,Edo,South South,Not Documented,Not Trained
+72614523595,Vocational Skills Development,B-NOAS,Male,20,Married,Edo,South South,Not Documented,Not Trained
+74448271086,Vocational Skills Development,TPWN,Male,18,Single,Edo,South South,Documented,Trained
+98479664904,Vocational Skills Development,A-NOAS,Male,17,Single,Edo,South South,Documented,Trained
+69426874966,Small Scale Enterprise,WEB,Female,16,Married,Edo,South South,Documented,Trained
+58085436218,Vocational Skills Development,TPWN,Male,18,Married,Edo,South South,Documented,Trained
+32427971426,Small Scale Enterprise,WEB,Male,20,Married,Ekiti,South West,Documented,Trained
+28840729517,Special Public Works,ACCES,Male,22,Married,Ekiti,South West,Documented,Not Trained
+10917659822,Vocational Skills Development,A-NOAS,Male,23,Married,Ekiti,South West,Documented,Not Trained
+48912340499,Special Public Works,GAP,Male,21,Married,Ekiti,South West,Documented,Trained
+74751841975,Special Public Works,GAP,Male,25,Married,Ekiti,South West,Documented,Trained
+65602434489,Special Public Works,GAP,Female,27,Married,Ekiti,South West,Documented,Trained
+75546556819,Rural Employment Programme,CBATS,Male,24,Married,Ekiti,South West,Documented,Trained
+75826409333,Vocational Skills Development,CBTS,Male,23,Married,Ekiti,South West,Documented,Trained
+50984569248,Special Public Works,GAP,Male,22,Married,Ekiti,South West,Documented,Trained
+28021804732,Rural Employment Programme,SSGPTS,Male,45,Married,Ekiti,South West,Not Documented,Not Trained
+56198658180,Small Scale Enterprise,SYOB,Male,41,Married,Ekiti,South West,Documented,Not Trained
+24482272909,Small Scale Enterprise,SYOB,Male,34,Married,Ekiti,South West,Not Documented,Not Trained
+54044629263,Small Scale Enterprise,WEB,Female,22,Married,Ekiti,South West,Documented,Not Trained
+82349200948,Vocational Skills Development,CBTS,Female,45,Married,Enugu,South East,Not Documented,Not Trained
+42852334454,Small Scale Enterprise,MEES,Female,41,Married,Enugu,South East,Documented,Not Trained
+34164294775,Vocational Skills Development,TCCTS,Male,34,Married,Enugu,South East,Documented,Not Trained
+25507732137,Vocational Skills Development,CBTS,Male,43,Single,Enugu,South East,Documented,Trained
+65072318546,Vocational Skills Development,TCCTS,Male,45,Married,Enugu,South East,Documented,Trained
+81223057771,Special Public Works,ACCES,Male,20,Married,Enugu,South East,Documented,Trained
+20655651407,Special Public Works,SETS,Male,34,Married,Enugu,South East,Documented,Trained
+13187889329,Small Scale Enterprise,MPP,Female,34,Single,Enugu,South East,Documented,Trained
+28321531692,Rural Employment Programme,PPTS,Female,32,Married,Enugu,South East,Documented,Trained
+87523057677,Special Public Works,SETS,Male,20,Married,Enugu,South East,Documented,Trained
+51584500924,Vocational Skills Development,QUICK-FIX ,Female,18,Single,Enugu,South East,Documented,Not Trained
+86829749587,Vocational Skills Development, DIGITAL SKILLS,Male,17,Married,Enugu,South East,Not Documented,Not Trained
+44595103344,Vocational Skills Development, DIGITAL SKILLS,Male,16,Single,Enugu,South East,Documented,Not Trained
+61431585316,Vocational Skills Development,CBTS,Male,18,Married,Fct-Abuja,North Central,Documented,Trained
+17975856749,Small Scale Enterprise,MEES,Female,20,Single,Fct-Abuja,North Central,Documented,Trained
+20824632871,Vocational Skills Development,TPWN,Male,18,Married,Fct-Abuja,North Central,Documented,Trained
+20824632871,Vocational Skills Development,TPWN,Male,17,Married,Fct-Abuja,North Central,Documented,Trained
+35414605416,Small Scale Enterprise,MEES,Male,16,Married,Fct-Abuja,North Central,Documented,Trained
+73292244463,Small Scale Enterprise,MEES,Female,18,Married,Fct-Abuja,North Central,Documented,Not Trained
+24380701975,Vocational Skills Development,CBTS,Male,20,Married,Fct-Abuja,North Central,Not Documented,Not Trained
+98666984852,Vocational Skills Development,CBTS,Male,22,Single,Fct-Abuja,North Central,Documented,Not Trained
+56775900628,Vocational Skills Development,CBTS,Female,23,Married,Fct-Abuja,North Central,Documented,Trained
+35162835466,Vocational Skills Development,CBTS,Female,21,Married,Fct-Abuja,North Central,Documented,Trained
+86457832703,Vocational Skills Development,CBTS,Male,25,Married,Fct-Abuja,North Central,Documented,Trained
+60841648209,Special Public Works,GAP,Male,27,Married,Gombe,North East,Documented,Trained
+42685226152,Vocational Skills Development,TPWN,Male,24,Single,Gombe,North East,Documented,Trained
+75136466163,Small Scale Enterprise,WEB,Male,23,Married,Gombe,North East,Documented,Trained
+70955964054,Small Scale Enterprise,MEES,Female,22,Married,Gombe,North East,Documented,Trained
+86208766961,Vocational Skills Development,CBTS,Female,45,Married,Gombe,North East,Documented,Trained
+98142305198,Small Scale Enterprise,MPP,Female,41,Married,Gombe,North East,Documented,Trained
+44695458713,Rural Employment Programme,PPTS,Male,34,Married,Gombe,North East,Documented,Trained
+26961022783,Small Scale Enterprise,MEES,Male,43,Married,Gombe,North East,Documented,Trained
+95204518096,Small Scale Enterprise,SYOB,Male,45,Married,Gombe,North East,Documented,Trained
+71939108130,Special Public Works,ACCES,Male,20,Married,Gombe,North East,Documented,Trained
+67231830935,Vocational Skills Development,TPWN,Male,34,Married,Gombe,North East,Documented,Not Trained
+78730935345,Rural Employment Programme,AETS,Male,34,Married,Gombe,North East,Documented,Not Trained
+23215656537,Rural Employment Programme,GAES,Male,32,Married,Gombe,North East,Not Documented,Not Trained
+98444023294,Rural Employment Programme,AETS,Male,20,Married,Gombe,North East,Not Documented,Not Trained
+76300877223,Small Scale Enterprise,WEB,Female,18,Single,Gombe,North East,Documented,Not Trained
+44695458713,Rural Employment Programme,PPTS,Male,17,Married,Gombe,North East,Documented,Not Trained
+97548642348,Small Scale Enterprise,WEB,Female,16,Married,Imo,South East,Documented,Not Trained
+16002111522,Vocational Skills Development,B-NOAS,Female,18,Married,Imo,South East,Documented,Trained
+66322140224,Small Scale Enterprise,MEES,Male,20,Married,Imo,South East,Documented,Trained
+14844294398,Small Scale Enterprise,MEES,Female,47,Married,Imo,South East,Documented,Trained
+86355447358,Special Public Works,GAP,Male,32,Married,Imo,South East,Documented,Trained
+13144850851,Small Scale Enterprise,MEES,Male,31,Married,Imo,South East,Documented,Trained
+57508432813,Small Scale Enterprise,WEB,Female,47,Married,Imo,South East,Documented,Trained
+69738367325,Special Public Works,GAP,Male,50,Married,Imo,South East,Documented,Trained
+95643901435,Small Scale Enterprise,WEB,Female,55,Single,Imo,South East,Documented,Not Trained
+68663381765,Small Scale Enterprise,WEB,Female,54,Single,Imo,South East,Not Documented,Not Trained
+33191741751,Special Public Works,ACCES,Female,56,Married,Imo,South East,Documented,Not Trained
+36447943757,Small Scale Enterprise,MEES,Female,59,Married,Imo,South East,Documented,Trained
+8235761822,Special Public Works,GAP,Female,32,Married,Imo,South East,Documented,Trained
+96102071099,Small Scale Enterprise,WEB,Female,20,Married,Imo,South East,Documented,Trained
+12822997022,Small Scale Enterprise,WEB,Female,34,Married,Imo,South East,Documented,Trained
+34633126327,Small Scale Enterprise,WEB,Female,23,Single,Imo,South East,Documented,Trained
+52165434178,Rural Employment Programme,CBATS,Male,26,Married,Jigawa,North West,Documented,Not Trained
+65132395452,Rural Employment Programme,FPTS,Female,24,Single,Jigawa,North West,Documented,Not Trained
+81117014012,Rural Employment Programme,PPTS,Female,23,Married,Jigawa,North West,Not Documented,Not Trained
+94819235822,Rural Employment Programme,PPTS,Male,22,Married,Jigawa,North West,Documented,Trained
+86876083105,Rural Employment Programme,CBATS,Male,45,Married,Jigawa,North West,Documented,Trained
+81865183129,Rural Employment Programme,SSGPTS,Female,41,Married,Jigawa,North West,Documented,Trained
+29252090349,Small Scale Enterprise,SYOB,Male,34,Married,Jigawa,North West,Documented,Trained
+94091620211,Small Scale Enterprise,MPP,Male,43,Married,Jigawa,North West,Documented,Trained
+94091620211,Small Scale Enterprise,MPP,Male,45,Married,Jigawa,North West,Documented,Trained
+94091620211,Small Scale Enterprise,MPP,Male,20,Married,Jigawa,North West,Documented,Trained
+72057838820,Rural Employment Programme,PPTS,Male,34,Married,Jigawa,North West,Documented,Trained
+95585263011,Rural Employment Programme,SADES,Male,34,Married,Jigawa,North West,Documented,Trained
+33689971715,Rural Employment Programme,PPTS,Female,32,Married,Jigawa,North West,Documented,Trained
+38727835655,Rural Employment Programme,CBATS,Female,20,Married,Jigawa,North West,Documented,Trained
+62379939178,Rural Employment Programme,CBATS,Female,18,Married,Jigawa,North West,Documented,Trained
+18805999259,Rural Employment Programme,CBATS,Male,17,Married,Jigawa,North West,Documented,Not Trained
+91398106714,Special Public Works,GAP,Male,16,Single,Kaduna,North West,Documented,Not Trained
+56258776262,Vocational Skills Development,CBTS,Male,18,Married,Kaduna,North West,Documented,Not Trained
+27674807252,Rural Employment Programme,AETS,Male,20,Married,Kaduna,North West,Documented,Not Trained
+99951649106,Vocational Skills Development,TPWN,Male,22,Married,Kaduna,North West,Not Documented,Not Trained
+82526460475,Special Public Works,GAP,Male,23,Single,Kaduna,North West,Documented,Not Trained
+61460559732,Special Public Works,GAP,Male,21,Married,Kaduna,North West,Not Documented,Not Trained
+55472399241,Special Public Works,GAP,Male,25,Single,Kaduna,North West,Documented,Trained
+86826855210,Vocational Skills Development,CBTS,Female,27,Widowed,Kaduna,North West,Documented,Trained
+49028174422,Small Scale Enterprise,MEES,Male,24,Married,Kaduna,North West,Documented,Trained
+40253016621,Small Scale Enterprise,WEB,Male,23,Married,Kaduna,North West,Documented,Trained
+22117102349,Small Scale Enterprise,WEB,Male,22,Divorce,Kaduna,North West,Documented,Trained
+27572087983,Small Scale Enterprise,MEES,Female,45,Married,Kaduna,North West,Documented,Not Trained
+33399409106,Small Scale Enterprise,WEB,Female,20,Widowed,Kaduna,North West,Documented,Not Trained
+51467557658,Vocational Skills Development,CBTS,Male,34,Married,Kaduna,North West,Documented,Trained
+77980217008,Small Scale Enterprise,WEB,Male,34,Married,Kaduna,North West,Documented,Trained
+73061493408,Small Scale Enterprise,WEB,Male,32,Single,Kaduna,North West,Documented,Trained
+48158704116,Vocational Skills Development,DMSWC,Male,20,Married,Kaduna,North West,Documented,Trained
+49871530711,Vocational Skills Development,TPWN,Male,18,Single,Kaduna,North West,Documented,Trained
+50547943234,Vocational Skills Development,TPWN,Male,17,Married,Kano,North West,Documented,Trained
+15808413420,Special Public Works,ACCES,Male,16,Married,Kano,North West,Documented,Trained
+15430177993,Small Scale Enterprise,MEES,Male,18,Single,Kano,North West,Documented,Trained
+28907835526,Small Scale Enterprise,WEB,Male,20,Married,Kano,North West,Documented,Trained
+51892166849,Special Public Works,ACCES,Male,18,Married,Kano,North West,Documented,Trained
+14100779801,Small Scale Enterprise,WEB,Male,17,Married,Kano,North West,Documented,Trained
+25844405970,Special Public Works,EBTS,Male,16,Married,Kano,North West,Documented,Trained
+98774664479,Vocational Skills Development,A-NOAS,Male,18,Married,Kano,North West,Documented,Not Trained
+27870105735,Special Public Works,GAP,Male,20,Married,Kano,North West,Documented,Not Trained
+55983044397,Vocational Skills Development,CBTS,Female,22,Married,Kano,North West,Documented,Not Trained
+38323198656,Small Scale Enterprise,NDE-EFCC,Male,23,Single,Kano,North West,Documented,Trained
+27480250981,Special Public Works,GAP,Male,21,Married,Kano,North West,Documented,Trained
+31468120830,Special Public Works,GAP,Male,25,Single,Kano,North West,Documented,Trained
+45270899711,Special Public Works,GCS,Male,27,Single,Kano,North West,Documented,Trained
+50203981577,Special Public Works,GAP,Male,24,Married,Kano,North West,Documented,Trained
+57033851819,Special Public Works,EBTS,Male,23,Married,Kano,North West,Documented,Trained
+63024698274,Special Public Works,ACCES,Male,22,Married,Kano,North West,Documented,Trained
+46967919404,Small Scale Enterprise,WEB,Female,45,Married,Kano,North West,Documented,Trained
+78328783887,Vocational Skills Development,TPWN,Male,54,Single,Katsina,North West,Documented,Trained
+12606857367,Vocational Skills Development,B-NOAS,Male,56,Married,Katsina,North West,Documented,Trained
+37629237568,Vocational Skills Development,B-NOAS,Male,59,Married,Katsina,North West,Documented,Trained
+20752336497,Vocational Skills Development,TPWN,Male,32,Married,Katsina,North West,Documented,Trained
+27243182550,Vocational Skills Development,CBTS,Male,20,Married,Katsina,North West,Documented,Not Trained
+87826553729,Vocational Skills Development,B-NOAS,Male,34,Married,Katsina,North West,Not Documented,Not Trained
+58642514082,Vocational Skills Development,TPWN,Male,23,Married,Katsina,North West,Documented,Trained
+39639153775,Vocational Skills Development,B-NOAS,Male,26,Married,Katsina,North West,Documented,Trained
+19199090181,Small Scale Enterprise,MEES,Male,24,Single,Katsina,North West,Documented,Trained
+84070241414,Vocational Skills Development,B-NOAS,Male,23,Married,Katsina,North West,Documented,Trained
+43233054616,Small Scale Enterprise,WEB,Female,22,Married,Katsina,North West,Documented,Trained
+59869964898,Vocational Skills Development,B-NOAS,Male,45,Married,Katsina,North West,Documented,Trained
+96368426001,Special Public Works,GAP,Male,41,Married,Katsina,North West,Documented,Trained
+12991486239,Vocational Skills Development,B-NOAS,Male,34,Single,Kebbi,North West,Not Documented,Not Trained
+28362598412,Vocational Skills Development,CBTS,Male,43,Married,Kebbi,North West,Documented,Not Trained
+65717236401,Special Public Works,GCS,Male,45,Married,Kebbi,North West,Not Documented,Not Trained
+84577149994,Small Scale Enterprise,MEES,Male,20,Married,Kebbi,North West,Documented,Trained
+91195458414,Vocational Skills Development,TPWN,Male,34,Married,Kebbi,North West,Documented,Trained
+50378921467,Vocational Skills Development,TPWN,Male,34,Married,Kebbi,North West,Documented,Trained
+88029815615,Vocational Skills Development,TPWN,Male,32,Married,Kebbi,North West,Documented,Trained
+85777966092,Vocational Skills Development, DIGITAL SKILLS,Male,20,Married,Kebbi,North West,Documented,Trained
+80869153001,Small Scale Enterprise,MEES,Male,18,Married,Kebbi,North West,Documented,Not Trained
+16925578955,Rural Employment Programme,FPTS,Male,17,Married,Kebbi,North West,Documented,Not Trained
+57002494571,Vocational Skills Development,CBTS,Male,20,Married,Kebbi,North West,Documented,Not Trained
+31812445715,Vocational Skills Development,CBTS,Male,18,Single,Kebbi,North West,Documented,Trained
+53178120749,Vocational Skills Development,A-NOAS,Male,17,Married,Kebbi,North West,Documented,Trained
+47656153177,Small Scale Enterprise,SYOB,Male,16,Married,Kebbi,North West,Documented,Trained
+53230927493,Small Scale Enterprise,BBT,Male,18,Married,Kebbi,North West,Documented,Trained
+58064514361,Vocational Skills Development,CBTS,Male,20,Married,Kogi,North Central,Documented,Trained
+14755255496,Vocational Skills Development,CBTS,Female,22,Married,Kogi,North Central,Documented,Trained
+54327109209,Small Scale Enterprise,WEB,Female,23,Married,Kogi,North Central,Documented,Trained
+66374887669,Vocational Skills Development,CBTS,Male,21,Married,Kogi,North Central,Documented,Trained
+42357692272,Special Public Works,ACCES,Male,25,Married,Kogi,North Central,Documented,Trained
+32163080809,Special Public Works,EBTS,Male,27,Single,Kogi,North Central,Documented,Trained
+61067479657,Special Public Works,ACCES,Male,24,Married,Kogi,North Central,Documented,Trained
+98699874017,Small Scale Enterprise,MEES,Male,23,Married,Kogi,North Central,Documented,Trained
+49761421621,Special Public Works,EBTS,Male,22,Married,Kogi,North Central,Documented,Trained
+48347675274,Special Public Works,ACCES,Male,45,Married,Kogi,North Central,Documented,Trained
+93091081968,Small Scale Enterprise,SYOB,Male,41,Single,Kogi,North Central,Documented,Trained
+37501800019,Special Public Works,ACCES,Female,34,Single,Kogi,North Central,Documented,Trained
+75611472486,Small Scale Enterprise,SYOB,Female,43,Married,Kogi,North Central,Not Documented,Not Trained
+36832696221,Vocational Skills Development,B-NOAS,Male,45,Single,Kogi,North Central,Documented,Not Trained
+97382651316,Vocational Skills Development,B-NOAS,Female,20,Married,Kogi,North Central,Documented,Not Trained
+39732684964,Vocational Skills Development, DIGITAL SKILLS,Male,20,Married,Kogi,North Central,Documented,Not Trained
+39549394601,Special Public Works,ACCES,Female,18,Married,Kogi,North Central,Documented,Trained
+17111104116,Vocational Skills Development,B-NOAS,Female,17,Married,Kogi,North Central,Documented,Trained
+94352592489,Special Public Works,GCS,Male,16,Married,Kogi,North Central,Documented,Trained
+68236729843,Special Public Works,GAP,Male,18,Married,Kwara,North Central,Documented,Trained
+41412069400,Small Scale Enterprise,NDE-EFCC,Female,20,Married,Kwara,North Central,Documented,Trained
+74201515679,Vocational Skills Development,CBTS,Male,22,Married,Kwara,North Central,Documented,Trained
+86811837985,Small Scale Enterprise,WEB,Female,23,Married,Kwara,North Central,Documented,Trained
+27103708967,Small Scale Enterprise,MEES,Female,21,Married,Kwara,North Central,Documented,Not Trained
+77107391295,Special Public Works,GAP,Female,25,Married,Kwara,North Central,Not Documented,Not Trained
+25428025779,Special Public Works,GAP,Female,27,Married,Kwara,North Central,Documented,Not Trained
+98365693204,Small Scale Enterprise,WEB,Female,24,Widowed,Kwara,North Central,Documented,Trained
+31490477737,Special Public Works,GAP,Male,23,Married,Kwara,North Central,Documented,Trained
+98365693204,Special Public Works,GAP,Female,22,Widowed,Kwara,North Central,Documented,Trained
+84337468356,Small Scale Enterprise,MEES,Male,45,Single,Kwara,North Central,Documented,Trained
+17680293040,Special Public Works,GAP,Female,41,Married,Kwara,North Central,Documented,Trained
+56336711384,Special Public Works,GAP,Female,34,Single,Kwara,North Central,Not Documented,Not Trained
+62230938194,Special Public Works,GAP,Male,43,Single,Kwara,North Central,Documented,Not Trained
+53587176860,Vocational Skills Development,CBTS,Male,45,Married,Lagos,South West,Documented,Trained
+92377205591,Special Public Works,EBTS,Male,20,Single,Lagos,South West,Documented,Trained
+76511334768,Vocational Skills Development,A-NOAS,Male,34,Married,Lagos,South West,Documented,Trained
+83021917789,Vocational Skills Development,A-NOAS,Male,34,Married,Lagos,South West,Documented,Trained
+71657361157,Vocational Skills Development,DMSWC,Male,32,Married,Lagos,South West,Documented,Trained
+72565049335,Small Scale Enterprise,MEES,Male,20,Married,Lagos,South West,Documented,Trained
+68452846935,Small Scale Enterprise,MEES,Male,18,Married,Lagos,South West,Documented,Trained
+96923004375,Vocational Skills Development,DMSWC,Male,17,Married,Lagos,South West,Documented,Trained
+83021917789,Vocational Skills Development,CBTS,Male,16,Married,Lagos,South West,Documented,Not Trained
+53841555893,Vocational Skills Development,A-NOAS,Male,18,Married,Lagos,South West,Not Documented,Not Trained
+47625520745,Vocational Skills Development,TCCTS,Male,20,Married,Lagos,South West,Documented,Not Trained
+97076393787,Vocational Skills Development,CBTS,Female,47,Married,Lagos,South West,Documented,Not Trained
+23784662574,Vocational Skills Development,DMSWC,Male,32,Married,Lagos,South West,Documented,Not Trained
+31535135902,Vocational Skills Development,CBTS,Female,31,Married,Nasarawa,North Central,Not Documented,Not Trained
+16023858645,Vocational Skills Development,CBTS,Male,47,Married,Nasarawa,North Central,Documented,Not Trained
+88171410861,Vocational Skills Development,DMSWC,Male,20,Single,Nasarawa,North Central,Documented,Not Trained
+83534767424,Vocational Skills Development,DMSWC,Male,18,Married,Nasarawa,North Central,Documented,Not Trained
+76313551520,Vocational Skills Development,A-NOAS,Male,17,Single,Nasarawa,North Central,Documented,Trained
+32195099015,Small Scale Enterprise,MEES,Male,16,Married,Nasarawa,North Central,Documented,Trained
+43910606691,Small Scale Enterprise,MEES,Male,18,Married,Nasarawa,North Central,Documented,Trained
+37248267659,Vocational Skills Development,DMSWC,Male,20,Single,Nasarawa,North Central,Documented,Trained
+75526892944,Special Public Works,ACCES,Male,22,Married,Nasarawa,North Central,Not Documented,Not Trained
+66164399355,Vocational Skills Development,DMSWC,Male,23,Single,Nasarawa,North Central,Documented,Trained
+14409179691,Special Public Works,GAP,Male,21,Married,Nasarawa,North Central,Documented,Trained
+82322009651,Vocational Skills Development,CBTS,Male,25,Married,Nasarawa,North Central,Documented,Trained
+89379523768,Vocational Skills Development,DMSWC,Male,27,Single,Nasarawa,North Central,Documented,Trained
+32913982825,Special Public Works,GAP,Male,24,Married,Nasarawa,North Central,Documented,Trained
+32921776900,Vocational Skills Development,B-NOAS,Male,23,Married,Nasarawa,North Central,Documented,Trained
+78036157163,Vocational Skills Development,CBTS,Male,22,Married,Nasarawa,North Central,Documented,Trained
+44178442410,Special Public Works,GAP,Male,45,Single,Nasarawa,North Central,Documented,Trained
+92422704582,Small Scale Enterprise,MEES,Male,41,Married,Nasarawa,North Central,Documented,Trained
+41260334838,Small Scale Enterprise,MEES,Male,34,Married,Niger,North Central,Documented,Trained
+49117134960,Small Scale Enterprise,WEB,Female,43,Married,Niger,North Central,Documented,Trained
+24167048010,Vocational Skills Development,TPWN,Male,45,Married,Niger,North Central,Documented,Trained
+29119934651,Small Scale Enterprise,WEB,Female,20,Married,Niger,North Central,Documented,Trained
+93172995962,Small Scale Enterprise,MEES,Male,34,Married,Niger,North Central,Documented,Not Trained
+58179564358,Special Public Works,GCS,Male,34,Married,Niger,North Central,Documented,Trained
+18529494308,Vocational Skills Development,TPWN,Male,32,Married,Niger,North Central,Documented,Trained
+10598086819,Vocational Skills Development,CBTS,Male,20,Married,Niger,North Central,Documented,Trained
+50941271059,Small Scale Enterprise,NDE-EFCC,Female,18,Married,Niger,North Central,Documented,Trained
+19195919166,Vocational Skills Development,CBTS,Male,17,Single,Niger,North Central,Documented,Trained
+34638974215,Vocational Skills Development,B-NOAS,Male,16,Married,Niger,North Central,Documented,Trained
+33679289020,Small Scale Enterprise,SYOB,Female,18,Married,Niger,North Central,Documented,Trained
+50950654960,Small Scale Enterprise,MEES,Male,20,Married,Niger,North Central,Documented,Trained
+17868811976,Small Scale Enterprise,SYOB,Male,47,Married,Niger,North Central,Documented,Trained
+24550056341,Vocational Skills Development,B-NOAS,Female,32,Married,Ogun,South West,Documented,Trained
+51149160457,Vocational Skills Development,B-NOAS,Male,31,Married,Ogun,South West,Documented,Trained
+67934754442,Vocational Skills Development,B-NOAS,Male,47,Married,Ogun,South West,Documented,Trained
+69885659607,Small Scale Enterprise,WEB,Female,20,Single,Ogun,South West,Documented,Trained
+83101142151,Vocational Skills Development,B-NOAS,Male,18,Married,Ogun,South West,Documented,Not Trained
+38329357152,Special Public Works,GAP,Male,17,Married,Ogun,South West,Documented,Trained
+84492954707,Special Public Works,GAP,Male,16,Single,Ogun,South West,Documented,Trained
+28111610292,Vocational Skills Development,CBTS,Male,18,Married,Ogun,South West,Documented,Trained
+54098155217,Vocational Skills Development,B-NOAS,Male,20,Married,Ogun,South West,Documented,Trained
+51489264258,Special Public Works,GAP,Male,47,Married,Ogun,South West,Documented,Trained
+47791575066,Vocational Skills Development,CBTS,Male,32,Single,Ogun,South West,Documented,Trained
+81187290247,Small Scale Enterprise,WEB,Female,31,Married,Ogun,South West,Documented,Trained
+86812940983,Vocational Skills Development,B-NOAS,Female,47,Married,Ogun,South West,Documented,Trained
+20708870001,Vocational Skills Development,CBTS,Male,20,Single,Ogun,South West,Documented,Not Trained
+67677518503,Vocational Skills Development,B-NOAS,Male,18,Married,Ogun,South West,Documented,Trained
+13875330186,Vocational Skills Development, DIGITAL SKILLS,Female,17,Married,Ogun,South West,Documented,Trained
+96257969688,Small Scale Enterprise,NDE-EFCC,Female,16,Married,Ondo,South West,Documented,Trained
+76050594672,Special Public Works,GCS,Male,18,Single,Ondo,South West,Documented,Trained
+51414752578,Vocational Skills Development,A-NOAS,Female,20,Married,Ondo,South West,Documented,Trained
+94373371126,Vocational Skills Development,CBTS,Female,22,Single,Ondo,South West,Documented,Trained
+63299215858,Special Public Works,GCS,Male,23,Married,Ondo,South West,Documented,Trained
+30861157235,Vocational Skills Development,TPWN,Male,21,Married,Ondo,South West,Documented,Trained
+40651816460,Special Public Works,GCS,Female,25,Married,Ondo,South West,Documented,Trained
+40651816460,Special Public Works,GCS,Female,27,Married,Ondo,South West,Documented,Trained
+25929334508,Special Public Works,GCS,Male,20,Single,Ondo,South West,Documented,Not Trained
+43824901852,Small Scale Enterprise,MEES,Male,18,Single,Ondo,South West,Documented,Trained
+58481179308,Special Public Works,GCS,Male,17,Married,Ondo,South West,Documented,Trained
+41542752177,Vocational Skills Development,CBTS,Male,16,Single,Ondo,South West,Documented,Trained
+59992333180,Vocational Skills Development,CBTS,Male,18,Single,Ondo,South West,Documented,Trained
+64564985117,Special Public Works,ACCES,Female,20,Married,Ondo,South West,Documented,Trained
+33591026961,Vocational Skills Development,A-NOAS,Female,22,Married,Ondo,South West,Documented,Trained
+88377609689,Special Public Works,GCS,Male,23,Married,Ondo,South West,Documented,Trained
+30356533179,Small Scale Enterprise,MEES,Male,21,Single,Ondo,South West,Documented,Trained
+23238846756,Special Public Works,ACCES,Female,25,Married,Ondo,South West,Documented,Trained
+55880966150,Special Public Works,GAP,Male,27,Married,Osun,South West,Documented,Not Trained
+51327691447,Vocational Skills Development,A-NOAS,Male,20,Married,Osun,South West,Documented,Trained
+60480091920,Vocational Skills Development,B-NOAS,Female,18,Married,Osun,South West,Documented,Trained
+20192474059,Vocational Skills Development,TCCTS,Female,17,Married,Osun,South West,Documented,Trained
+42421320950,Small Scale Enterprise,WEB,Female,16,Married,Osun,South West,Documented,Trained
+34081193116,Special Public Works,LBIDS,Male,18,Married,Osun,South West,Not Documented,Not Trained
+68390738711,Vocational Skills Development,CBTS,Female,20,Married,Osun,South West,Documented,Trained
+80995602984,Special Public Works,GAP,Male,22,Single,Osun,South West,Documented,Trained
+72451115392,Small Scale Enterprise,MEES,Male,23,Married,Osun,South West,Documented,Trained
+27269018637,Vocational Skills Development,CBTS,Male,21,Married,Osun,South West,Documented,Trained
+35634972497,Vocational Skills Development,TPWN,Male,25,Married,Osun,South West,Documented,Trained
+19380733671,Small Scale Enterprise,MEES,Male,27,Married,Osun,South West,Documented,Not Trained
+99459201787,Special Public Works,LBIDS,Male,26,Married,Osun,South West,Documented,Trained
+32382180502,Vocational Skills Development,CBTS,Female,24,Single,Osun,South West,Documented,Trained
+71400394983,Vocational Skills Development,B-NOAS,Male,23,Married,Oyo,South West,Documented,Trained
+35974944037,Small Scale Enterprise,WEB,Female,22,Single,Oyo,South West,Documented,Trained
+37167220431,Special Public Works,GAP,Male,45,Married,Oyo,South West,Documented,Trained
+45883713145,Special Public Works,GAP,Male,41,Married,Oyo,South West,Documented,Not Trained
+20907481847,Small Scale Enterprise,MEES,Female,34,Married,Oyo,South West,Not Documented,Not Trained
+14355199356,Small Scale Enterprise,WEB,Male,43,Married,Oyo,South West,Documented,Not Trained
+70588046502,Small Scale Enterprise,MEES,Male,45,Single,Oyo,South West,Documented,Trained
+92513794576,Special Public Works,GAP,Male,20,Married,Oyo,South West,Documented,Trained
+84842542107,Small Scale Enterprise,WEB,Female,34,Married,Oyo,South West,Documented,Trained
+49166442470,Small Scale Enterprise,MEES,Male,34,Married,Oyo,South West,Documented,Trained
+15053914004,Vocational Skills Development,CBTS,Male,32,Married,Oyo,South West,Documented,Trained
+49537162181,Special Public Works,GAP,Male,20,Married,Oyo,South West,Documented,Not Trained
+66496084424,Vocational Skills Development,TPWN,Male,18,Single,Oyo,South West,Documented,Trained
+33224139721,Special Public Works,GAP,Male,17,Married,Oyo,South West,Documented,Trained
+94233880758,Vocational Skills Development,CBTS,Female,56,Married,Oyo,South West,Documented,Trained
+75612085816,Vocational Skills Development,B-NOAS,Female,34,Married,Oyo,South West,Documented,Trained
+54875350559,Vocational Skills Development,CBTS,Female,43,Married,Oyo,South West,Documented,Trained
+50768616198,Special Public Works,GAP,Male,54,Married,Oyo,South West,Documented,Trained
+50918422427,Small Scale Enterprise,MEES,Female,17,Married,Oyo,South West,Documented,Not Trained
+91624101904,Small Scale Enterprise,WEB,Female,19,Married,Oyo,South West,Documented,Trained
+83874391116,Small Scale Enterprise,MEES,Male,20,Married,Plateau,North Central,Documented,Trained
+73333367643,Vocational Skills Development,CBTS,Female,22,Married,Plateau,North Central,Documented,Trained
+54675449353,Vocational Skills Development,A-NOAS,Male,21,Married,Plateau,North Central,Documented,Trained
+46754701507,Vocational Skills Development,CBTS,Male,21,Single,Plateau,North Central,Documented,Trained
+44891498648,Vocational Skills Development,CBTS,Male,25,Married,Plateau,North Central,Documented,Trained
+59561949795,Vocational Skills Development,B-NOAS,Female,27,Married,Plateau,North Central,Documented,Trained
+42861664393,Vocational Skills Development,B-NOAS,Female,26,Married,Plateau,North Central,Documented,Trained
+82023881335,Vocational Skills Development,CBTS,Female,24,Married,Plateau,North Central,Documented,Trained
+21214147260,Vocational Skills Development,TPWN,Male,23,Single,Plateau,North Central,Documented,Trained
+69468412632,Vocational Skills Development,B-NOAS,Male,22,Married,Plateau,North Central,Not Documented,Not Trained
+20264692553,Small Scale Enterprise,NDE-EFCC,Male,45,Married,Plateau,North Central,Documented,Trained
+31531312570,Vocational Skills Development,CBTS,Female,41,Single,Plateau,North Central,Documented,Trained
+83407924088,Special Public Works,SETS,Male,34,Married,Plateau,North Central,Documented,Trained
+36423759000,Small Scale Enterprise,SYOB,Male,43,Married,Plateau,North Central,Documented,Trained
+54824476009,Rural Employment Programme,PPTS,Female,45,Single,Plateau,North Central,Documented,Trained
+92507825692,Vocational Skills Development,A-NOAS,Male,20,Married,River State,South South,Documented,Trained
+64152723747,Small Scale Enterprise,WEB,Female,34,Married,River State,South South,Documented,Trained
+63627848885,Vocational Skills Development,CBTS,Female,34,Married,River State,South South,Documented,Trained
+96515019009,Vocational Skills Development,CBTS,Female,32,Married,River State,South South,Documented,Trained
+69945954300,Vocational Skills Development,TPWN,Male,20,Married,River State,South South,Documented,Not Trained
+93733575597,Vocational Skills Development,TPWN,Female,18,Married,River State,South South,Documented,Trained
+20648058805,Vocational Skills Development,TPWN,Male,17,Single,River State,South South,Documented,Trained
+83589251823,Vocational Skills Development,CBTS,Male,56,Single,River State,South South,Documented,Trained
+35925040486,Vocational Skills Development,CBTS,Male,34,Married,River State,South South,Documented,Trained
+25303052439,Small Scale Enterprise,MEES,Male,43,Married,River State,South South,Documented,Not Trained
+95239052171,Vocational Skills Development,TPWN,Female,54,Single,River State,South South,Documented,Trained
+48390221109,Small Scale Enterprise,MEES,Female,17,Married,River State,South South,Documented,Trained
+61023405616,Vocational Skills Development,CBTS,Male,19,Married,River State,South South,Documented,Trained
+71083511703,Small Scale Enterprise,NDE-EFCC,Female,20,Married,River State,South South,Documented,Trained
+24945720079,Small Scale Enterprise,NDE-EFCC,Female,22,Married,River State,South South,Documented,Trained
+52761336308,Vocational Skills Development,CBTS,Male,21,Married,River State,South South,Documented,Not Trained
+88345395837,Vocational Skills Development,CBTS,Male,25,Married,River State,South South,Documented,Trained
+85968793777,Vocational Skills Development,TPWN,Male,27,Married,Sokoto,North West,Documented,Trained
+62106033953,Vocational Skills Development,TCCTS,Male,20,Married,Sokoto,North West,Documented,Trained
+17194332022,Vocational Skills Development,CBTS,Male,18,Married,Sokoto,North West,Documented,Trained
+59271969871,Vocational Skills Development,CBTS,Male,17,Married,Sokoto,North West,Documented,Trained
+46563649371,Small Scale Enterprise,NDE-EFCC,Male,16,Married,Sokoto,North West,Documented,Not Trained
+99318861035,Vocational Skills Development,CBTS,Male,18,Married,Sokoto,North West,Not Documented,Not Trained
+39616492520,Vocational Skills Development,CBTS,Male,20,Married,Sokoto,North West,Documented,Not Trained
+79932682421,Vocational Skills Development,CBTS,Male,22,Married,Sokoto,North West,Documented,Trained
+16249070202,Vocational Skills Development,CBTS,Male,23,Married,Sokoto,North West,Documented,Trained
+58600355952,Rural Employment Programme,SSGPTS,Male,21,Married,Sokoto,North West,Documented,Trained
+69158460340,Small Scale Enterprise,MEES,Male,25,Married,Sokoto,North West,Documented,Trained
+92303048762,Small Scale Enterprise,MEES,Female,27,Widowed,Sokoto,North West,Documented,Trained
+97381233171,Rural Employment Programme,SADES,Male,20,Married,Sokoto,North West,Documented,Not Trained
+82136649516,Vocational Skills Development,CBTS,Male,18,Married,Sokoto,North West,Documented,Trained
+16245013956,Special Public Works,GAES,Male,17,Married,Sokoto,North West,Documented,Trained
+32643439185,Rural Employment Programme,PPTS,Female,16,Married,Sokoto,North West,Documented,Trained
+53752702973,Rural Employment Programme,PPTS,Male,18,Married,Sokoto,North West,Documented,Trained
+29227657488,Vocational Skills Development,B-NOAS,Male,20,Married,Taraba,North East,Documented,Trained
+61253250083,Vocational Skills Development,CBTS,Male,22,Married,Taraba,North East,Documented,Trained
+19964850553,Vocational Skills Development,CBTS,Female,23,Married,Taraba,North East,Documented,Trained
+25196940295,Vocational Skills Development,A-NOAS,Male,21,Married,Taraba,North East,Documented,Trained
+90153664550,Small Scale Enterprise,MEES,Male,25,Married,Taraba,North East,Documented,Trained
+20709131832,Vocational Skills Development,DMSWC,Male,27,Single,Taraba,North East,Documented,Trained
+89163108722,Small Scale Enterprise,MEES,Male,26,Single,Taraba,North East,Not Documented,Not Trained
+53552121670,Small Scale Enterprise,MEES,Male,24,Single,Taraba,North East,Documented,Trained
+35483681388,Special Public Works,ACCES,Male,23,Married,Taraba,North East,Documented,Trained
+94081878393,Vocational Skills Development,B-NOAS,Male,22,Married,Taraba,North East,Documented,Trained
+88397464176,Special Public Works,EBTS,Male,45,Married,Taraba,North East,Documented,Trained
+41524737411,Vocational Skills Development,B-NOAS,Male,41,Married,Taraba,North East,Documented,Trained
+61148890743,Vocational Skills Development,DMSWC,Male,34,Married,Taraba,North East,Documented,Trained
+66977509471,Vocational Skills Development,CBTS,Male,43,Single,Yobe,North East,Documented,Trained
+98341725448,Small Scale Enterprise,MEES,Male,45,Married,Yobe,North East,Documented,Trained
+49586448100,Special Public Works,ACCES,Male,20,Married,Yobe,North East,Documented,Trained
+96508850285,Small Scale Enterprise,NDE-EFCC,Male,34,Married,Yobe,North East,Documented,Not Trained
+26528135355,Small Scale Enterprise,WEB,Female,34,Married,Yobe,North East,Documented,Trained
+27167238837,Special Public Works,EBTS,Female,32,Married,Yobe,North East,Documented,Trained
+54591232923,Special Public Works,ACCES,Male,20,Married,Yobe,North East,Documented,Trained
+13381266231,Vocational Skills Development,CBTS,Male,18,Single,Yobe,North East,Documented,Trained
+60417734613,Vocational Skills Development, DIGITAL SKILLS,Male,17,Married,Yobe,North East,Documented,Not Trained
+98546547081,Small Scale Enterprise,MEES,Male,56,Married,Yobe,North East,Documented,Trained
+38401549570,Vocational Skills Development, DIGITAL SKILLS,Female,34,Married,Yobe,North East,Documented,Trained
+45879721727,Vocational Skills Development,QUICK-FIX ,Female,43,Married,Yobe,North East,Documented,Trained
+89550642638,Special Public Works,SETS,Male,54,Married,Yobe,North East,Documented,Trained
+84459416570,Vocational Skills Development, DIGITAL SKILLS,Male,17,Married,Yobe,North East,Documented,Trained
+49169958220,Vocational Skills Development,CBTS,Male,19,Married,Yobe,North East,Documented,Not Trained
+38499993598,Small Scale Enterprise,MEES,Male,20,Married,Zamfara,North West,Documented,Trained
+81038140847,Small Scale Enterprise,WEB,Female,22,Married,Zamfara,North West,Documented,Trained
+33004077829,Small Scale Enterprise,WEB,Female,21,Married,Zamfara,North West,Documented,Trained
+52989184113,Small Scale Enterprise,NDE-EFCC,Female,21,Married,Zamfara,North West,Documented,Trained
+81447752513,Small Scale Enterprise,MEES,Female,25,Married,Zamfara,North West,Documented,Trained
+70500394979,Small Scale Enterprise,MEES,Female,27,Married,Zamfara,North West,Documented,Not Trained
+54854854838,Vocational Skills Development,TPWN,Male,26,Married,Zamfara,North West,Not Documented,Not Trained
+72101149459,Vocational Skills Development,TPWN,Male,24,Married,Zamfara,North West,Documented,Not Trained
+37338250709,Vocational Skills Development,TPWN,Female,23,Married,Zamfara,North West,Documented,Trained
+57332011237,Vocational Skills Development,TPWN,Male,22,Married,Zamfara,North West,Documented,Trained
+49651141803,Vocational Skills Development,TPWN,Male,45,Married,Zamfara,North West,Documented,Trained
+91483813328,Vocational Skills Development,TPWN,Male,41,Married,Zamfara,North West,Documented,Trained
+83353295603,Vocational Skills Development,TPWN,Male,34,Married,Zamfara,North West,Documented,Trained
+96136996904,Vocational Skills Development,TPWN,Male,43,Married,Zamfara,North West,Documented,Trained
+78021583260,Special Public Works,GAP,Male,45,Married,Zamfara,North West,Documented,Trained
+90490376640,Special Public Works,GAP,Female,20,Married,Zamfara,North West,Documented,Trained
+38941169204,Rural Employment Programme,AETS,Male,34,Married,Zamfara,North West,Documented,Trained
