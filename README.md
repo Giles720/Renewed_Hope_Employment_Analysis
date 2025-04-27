@@ -5,7 +5,7 @@
 ## Data Source:
 ### The data used in this portfolio was generated from the structure of data collated from the renewed hope employment initiative of the NDE. It is not real and was created solely for illustrative and analytical purposes. It should not be referenced or used for official reporting, policy decisions, or any real-world application.
 
-## tools Deployed:
+## Tools Deployed:
 * Ms Execel - Used for primary data collection and cleaning [Download Here](https://github.com/Giles720/Renewed_Hope_Employment_Analysis/blob/main/TRAINED.csv)
 * Python for data Analysis and visualisation (Jupyter Notebook)
 
